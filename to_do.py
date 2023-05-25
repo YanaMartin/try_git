@@ -6,6 +6,7 @@
 #4. Attend classes on time.
 #5. Visit aunt.
 #6. Apply for remote jobs.
+#7. Play!
 
 l=['p', 'q']
 n=8
