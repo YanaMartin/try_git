@@ -46,16 +46,16 @@ yanas-MacBook-Air:try_git yanakirilov$ git status
 """upload the changed file"""
 yanas-MacBook-Air:try_git yanakirilov$ git add to_do.py
 yanas-MacBook-Air:try_git yanakirilov$ git commit -m "added new task"
-[main 61bbe49] added new task
- 1 file changed, 1 insertion(+)
+#[main 61bbe49] added new task
+# 1 file changed, 1 insertion(+)
 yanas-MacBook-Air:try_git yanakirilov$ git push -u origin main
-Enumerating objects: 5, done.
-Counting objects: 100% (5/5), done.
-Delta compression using up to 4 threads
-Compressing objects: 100% (2/2), done.
-Writing objects: 100% (3/3), 288 bytes | 288.00 KiB/s, done.
-Total 3 (delta 1), reused 0 (delta 0)
-remote: Resolving deltas: 100% (1/1), completed with 1 local object.
-To https://github.com/YanaMartin/try_git.git
-   c113047..61bbe49  main -> main
-Branch 'main' set up to track remote branch 'main' from 'origin'.
+#Enumerating objects: 5, done.
+#Counting objects: 100% (5/5), done.
+#Delta compression using up to 4 threads
+#Compressing objects: 100% (2/2), done.
+#Writing objects: 100% (3/3), 288 bytes | 288.00 KiB/s, done.
+#Total 3 (delta 1), reused 0 (delta 0)
+#remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+#To https://github.com/YanaMartin/try_git.git
+#   c113047..61bbe49  main -> main
+#Branch 'main' set up to track remote branch 'main' from 'origin'.
